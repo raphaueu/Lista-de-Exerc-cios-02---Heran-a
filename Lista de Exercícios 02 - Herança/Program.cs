@@ -11,6 +11,7 @@ namespace Lista_de_Exercícios_02___Herança
         static void Main(string[] args)
         {
             //carga inicial github
+            //teste 2
         }
     }
 }
